@@ -1,0 +1,35 @@
+<!DOCTYPE HTML>
+<html lang="pt-br">
+<head>
+	<title> Jogo da Forca </title>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta charset="UTF-8">
+	<link rel="shortcut icon" href="Fotos/omnitrix.jpg">
+    <link rel="stylesheet" href="css/estilo.css">
+    <style>
+    	canvas {
+    		border:solid 1px;
+    	}
+    </style>
+ </head>
+ <body>
+<center> <h1> Joga da Forca </h1> </center>
+<div id="canvas-container">
+    <canvas id="canvas" width="400" height="400"></canvas>
+</div>
+<canvas id="hangman-canvas" width="0" height="0"></canvas>
+  <div class="hangman">
+        <div class="head"></div>
+        <div class="body"></div>
+        <div class="left-arm"></div>
+        <div class="right-arm"></div>
+        <div class="left-leg"></div>
+        <div class="right-leg"></div>
+    </div>
+    <div class="word-display" id="word-display"></div>
+    <div class="letters" id="letters">
+    </div>
+    <script src="script.js"></script>
+<script src="JS/script.js"></script>
+</body>
+</html>
