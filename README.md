@@ -24,3 +24,6 @@ No JavaScript, desenvolvemos um jogo da forca, utilizando um canvas HTML para a 
 
 ### Diagrama de Atividade
 ![image](https://github.com/GuilhermeM777/Jogo-da-Forca/assets/127865701/49fc5851-51f2-414e-9062-3d104d904185)
+
+## Documentação
+![image](https://github.com/GuilhermeM777/Jogo-da-Forca/assets/127865701/b1f253db-5423-45bb-9505-d7e90cb40728)
